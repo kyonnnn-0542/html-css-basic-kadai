@@ -1,18 +1,19 @@
 #top {
   width: 800px;
   background-color: #dcc9f4;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-  justify-content: center;
-  display: flex;
-  gap: 10px;
   margin: 20px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
 }
 .top-child {
   width: 20%;
   background-color: #ffd9df;
-  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 0;
 }
 #middle {
   position: relative;
